@@ -4,7 +4,7 @@ font-family: 'Poppins', sans-serif;*/
   --branding-color: #6c63ff;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
-  --secondary-color: #f9f7fe;
+  --secondary-color: #dfd8f1;
 }
 body {
   font-family: var(--default-font-family);
@@ -131,6 +131,9 @@ color: white;
 .logo {
   max-height: 100px;
   margin: 0;
+}
+.weather-app{
+  border-radius: 20px;
 }
 nav {
   padding: 20px 0;
