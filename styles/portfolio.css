@@ -96,6 +96,7 @@ a {
   color: white;
 }
 
+
 .btn-branding {
   background: var(--branding-color);
   border-radius: 4;
@@ -122,7 +123,7 @@ background: var(--branding-color);
 color: white;
 }
 .project-description {
-  padding: 120px 60px;
+    padding: 50px 60px;
 }
 
 .mt-5-patricia {
