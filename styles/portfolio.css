@@ -46,6 +46,10 @@ img{
   border-radius: 20px;
   border: 2px solid white;
 }
+img:hover{
+  transform: scale(1.5);
+  transition: all .2s ease-in-out;
+}
 
 .more-work{
   display: block;
@@ -155,13 +159,6 @@ color: white;
   border-radius: 20px;
 }
 
-.blood{
-    margin-left: 60px;
-}
-.vertebrate{
-  margin-top: -160px;
-  margin-left: -8px;
-}
 
 
 nav {
