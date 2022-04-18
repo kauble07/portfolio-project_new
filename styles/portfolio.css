@@ -50,6 +50,9 @@ img:hover{
   transform: scale(1.5);
   transition: all .2s ease-in-out;
 }
+.work-image:hover {
+  transform: none;
+}
 
 .more-work{
   display: block;
@@ -162,8 +165,21 @@ color: white;
 .cartoons{
   margin-top: -35px;
 }
-
-
+.communication{
+  border-radius: 0px;
+}
+.work-page{
+  display: block;
+  color: white;
+  font-size: 24px;
+text-align: center;
+}
+.work-page:hover{
+  display: block;
+  color: var(--branding-color);
+  font-size: 24px;
+text-align: center;
+}
 
 nav {
   padding: 20px 0;
@@ -210,6 +226,8 @@ footer .email-link {
 
 footer .email-link:hover {
   color: var(--branding-color);
+  
+  
 }
 footer .social-links a {
   margin: 0 20px;
