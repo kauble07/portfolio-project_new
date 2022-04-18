@@ -54,7 +54,8 @@ img:hover{
 .more-work{
   display: block;
   text-align: center;
-  font-size: 20px;
+  font-size: 15px;
+  margin-top: -10px;
 }
 .more-work:hover{
   color: white;
@@ -157,6 +158,9 @@ color: white;
 }
 .weather-app{
   border-radius: 20px;
+}
+.cartoons{
+  margin-top: -35px;
 }
 
 
