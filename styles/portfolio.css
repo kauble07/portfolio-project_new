@@ -1,5 +1,4 @@
-/*font-family: 'Playfair Display', serif;
-font-family: 'Poppins', sans-serif;*/
+
 :root {
   --branding-color: #6c63ff;
   --heading-font-family: "Playfair Display", serif;
@@ -47,9 +46,6 @@ img{
   border: 2px solid white;
 }
 
-.work-image:hover {
-  transform: none;
-}
 
 .more-work{
   display: block;
