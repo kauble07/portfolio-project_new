@@ -44,6 +44,8 @@ a {
 img{
   border-radius: 20px;
   border: 2px solid white;
+  image-rendering: auto;
+  image-rendering: crisp-edges;
 }
 
 
